@@ -1,8 +1,12 @@
 {
-    "name": "rachidlaasri/laravel-installer",
+    "name": "eatandmore/laravel-installer",
     "description": "Laravel web installer",
     "license": "MIT",
     "authors": [
+        {
+            "name": "eat and more",
+            "email": "eatandmore2020@gmail.com"
+        }
         {
             "name": "Rachid Laasri",
             "email": "rashidlaasri@gmail.com"
